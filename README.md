@@ -5,12 +5,14 @@ Ever had to troubleshoot a Mega CD? Everyone knows what a chore it can be to hav
 
 This is a simple extension board to allow for running the Genesis/MD off to the side, leaving the board open for analysis!
 
+PCB's should be ordered in 1.6mm thickness. HASL is fine, ENIG would be a better choice. Make sure to do beveling for the CD side PCB.
+
 *** USE THIS AT YOUR OWN RISK. I HAVE TESTED THIS AND IT WORKS PERFECTLY, BUT I AM NOT RESPONSIBLE FOR IMPROPER ASSEMBLY CAUSING DAMAGE ***
 
 ## Materials Needed
 1 MD Side PCB
 
-1 CD Side PCB
+1 CD Side PCB 
 
 ![](/_images/bare_pcb.jpeg)
 
